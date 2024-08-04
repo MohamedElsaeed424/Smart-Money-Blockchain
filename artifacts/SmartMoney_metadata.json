@@ -87,11 +87,11 @@
 	},
 	"sources": {
 		"SmartMoneyContract.sol": {
-			"keccak256": "0x2c664bc3609b2e8fcf6e992d0998238bce6d136a87c72c2c72646bf5169a1439",
+			"keccak256": "0xc2fb0afc7b8e923679d882271f3e59004a9f793611ad7c474a838904161c531b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4630dfd72db4d88ed921413c4688049fc103d832abbc321e49eea590e102e236",
-				"dweb:/ipfs/QmZqTUsiFRSiawmCjmZgptr2kax13qrRvSWzmp1QieG9Mn"
+				"bzz-raw://53cc29ee7ec8b29d042e62b3e145ccb7f9a998fc97ae089fe981c38c7c9bd56d",
+				"dweb:/ipfs/QmPJTimDdvCMqD5NqRFnctkKTEHgDuX9kDdyiv5qAUDFEW"
 			]
 		}
 	},
